@@ -1,0 +1,17 @@
+C:\Users\betrayal\source\repos\ToDoMVVM\ToDoMVVM\bin\Debug\ToDoMVVM.exe.config
+C:\Users\betrayal\source\repos\ToDoMVVM\ToDoMVVM\bin\Debug\ToDoMVVM.exe
+C:\Users\betrayal\source\repos\ToDoMVVM\ToDoMVVM\bin\Debug\ToDoMVVM.pdb
+C:\Users\betrayal\source\repos\ToDoMVVM\ToDoMVVM\obj\Debug\ToDoMVVM.csproj.AssemblyReference.cache
+C:\Users\betrayal\source\repos\ToDoMVVM\ToDoMVVM\obj\Debug\ToDoMVVM.csproj.SuggestedBindingRedirects.cache
+C:\Users\betrayal\source\repos\ToDoMVVM\ToDoMVVM\obj\Debug\App.g.cs
+C:\Users\betrayal\source\repos\ToDoMVVM\ToDoMVVM\obj\Debug\ToDoMVVM_MarkupCompile.cache
+C:\Users\betrayal\source\repos\ToDoMVVM\ToDoMVVM\obj\Debug\ToDoMVVM_MarkupCompile.lref
+C:\Users\betrayal\source\repos\ToDoMVVM\ToDoMVVM\obj\Debug\ToDoMVVM.g.resources
+C:\Users\betrayal\source\repos\ToDoMVVM\ToDoMVVM\obj\Debug\ToDoMVVM.Properties.Resources.resources
+C:\Users\betrayal\source\repos\ToDoMVVM\ToDoMVVM\obj\Debug\ToDoMVVM.csproj.GenerateResource.cache
+C:\Users\betrayal\source\repos\ToDoMVVM\ToDoMVVM\obj\Debug\ToDoMVVM.csproj.CoreCompileInputs.cache
+C:\Users\betrayal\source\repos\ToDoMVVM\ToDoMVVM\obj\Debug\ToDoMVVM.exe
+C:\Users\betrayal\source\repos\ToDoMVVM\ToDoMVVM\obj\Debug\ToDoMVVM.pdb
+C:\Users\betrayal\source\repos\ToDoMVVM\ToDoMVVM\obj\Debug\View\MainWindow.g.cs
+C:\Users\betrayal\source\repos\ToDoMVVM\ToDoMVVM\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\betrayal\source\repos\ToDoMVVM\ToDoMVVM\obj\Debug\View\MainWindow.baml
